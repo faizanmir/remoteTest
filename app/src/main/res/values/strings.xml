@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">remoteTest</string>
+    <string-array name="motors">
+        <item>""</item>
+        <item>DM1</item>
+        <item>DM2</item>
+        <item>DM3</item>
+        <item>DM4</item>
+    </string-array>
+    <string-array name="direction">
+        <item>""</item>
+        <item>Clockwise</item>
+        <item>Anti-Clockwise</item>
+    </string-array>
+</resources>
